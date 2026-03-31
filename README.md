@@ -22,36 +22,39 @@ El enfoque del curso es altamente práctico. Cada módulo incluye laboratorios g
 
 ### Capítulo 1
 
-- [Laboratorio 1: Fundamentos de Mensajería Basada en Eventos y Arquitectura Kafka](Capitulo01/README.md#laboratorio-1-respecto-al-contenido-del-capitulo-1)
-  - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 168 min
+### [Laboratorio 1: Fundamentos de Mensajería Basada en Eventos y Arquitectura Kafka](Capitulo01/README.md#laboratorio-1-respecto-al-contenido-del-capitulo-1)
+  - 📝 **Descripción**: Actividad práctica guiada basada en el contenido del módulo.
+  - ⏱️ **Duración estimada**: 168 min
 
 ### Capítulo 2
 
-- [Laboratorio 2: Despliegue y Operación de Apache Kafka 4.0 con Docker Compose y Confluent Platform 8.0](Capitulo02/README.md#laboratorio-2-respecto-al-contenido-del-capitulo-2)
-  - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 168 min
+### [Laboratorio 2: Despliegue y Operación de Apache Kafka 4.0 con Docker Compose y Confluent Platform 8.0](Capitulo02/README.md#laboratorio-2-respecto-al-contenido-del-capitulo-2)
+  - 📝 **Descripción**: Actividad práctica guiada basada en el contenido del módulo.
+  - ⏱️ **Duración estimada**: 168 min
 
 ### Capítulo 3
 
-- [Laboratorio 3: Administración Operacional de Kafka — Particiones, Replicación, Retención y Kafka Connect](Capitulo03/README.md#laboratorio-3-respecto-al-contenido-del-capitulo-3)
-  - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 168 min
+### [Laboratorio 3: Administración Operacional de Kafka — Particiones, Replicación, Retención y Kafka Connect](Capitulo03/README.md#laboratorio-3-respecto-al-contenido-del-capitulo-3)
+  - 📝 **Descripción**: Actividad práctica guiada basada en el contenido del módulo.
+  - ⏱️ **Duración estimada**: 168 min
 
 ### Capítulo 4
 
-- [Laboratorio 4: Conector JDBC Source (Base de datos → Kafka)](Capitulo04/README.md#laboratorio-4-conector-jdbc-source-base-de-datos-kafka)
-  - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 38 min
-- [Laboratorio 5: Conector JDBC Sink (Kafka → Base de datos)](Capitulo04/README.md#laboratorio-5-conector-jdbc-sink-kafka-base-de-datos)
-  - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 38 min
-- [Laboratorio 6: Consultas en tiempo real con ksqlDB](Capitulo04/README.md#laboratorio-6-consultas-en-tiempo-real-con-ksqldb)
-  - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 42 min
-- [Laboratorio 7: Evaluación final y cierre del curso](Capitulo04/README.md#laboratorio-7-evaluación-final-y-cierre-del-curso)
-  - Descripción: Actividad práctica guiada basada en el contenido del módulo.
-  - Duración estimada: 50 min
+### [Laboratorio 4: Conector JDBC Source (Base de datos → Kafka)](Capitulo04/README.md#laboratorio-4-conector-jdbc-source-base-de-datos-kafka)
+  - 📝 **Descripción**: Actividad práctica guiada basada en el contenido del módulo.
+  - ⏱️ **Duración estimada**: 38 min
+    
+### [Laboratorio 5: Conector JDBC Sink (Kafka → Base de datos)](Capitulo04/README.md#laboratorio-5-conector-jdbc-sink-kafka-base-de-datos)
+  - 📝 **Descripción**: Actividad práctica guiada basada en el contenido del módulo.
+  - ⏱️ **Duración estimada**: 38 min
+    
+### [Laboratorio 6: Consultas en tiempo real con ksqlDB](Capitulo04/README.md#laboratorio-6-consultas-en-tiempo-real-con-ksqldb)
+  - 📝 **Descripción**: Actividad práctica guiada basada en el contenido del módulo.
+  - ⏱️ **Duración estimada**: 42 min
+    
+### [Laboratorio 7: Evaluación final y cierre del curso](Capitulo04/README.md#laboratorio-7-evaluación-final-y-cierre-del-curso)
+  - 📝 **Descripción**: Actividad práctica guiada basada en el contenido del módulo.
+  - ⏱️ **Duración estimada**: 50 min
 
 
 ---
