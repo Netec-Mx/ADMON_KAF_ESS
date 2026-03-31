@@ -22,19 +22,19 @@ El enfoque del curso es altamente práctico. Cada módulo incluye laboratorios g
 
 ### Capítulo 1
 
-- [Laboratorio 1: Respecto al contenido del capitulo 1](Capitulo01/README.md#laboratorio-1-respecto-al-contenido-del-capitulo-1)
+- [Laboratorio 1: Fundamentos de Mensajería Basada en Eventos y Arquitectura Kafka](Capitulo01/README.md#laboratorio-1-respecto-al-contenido-del-capitulo-1)
   - Descripción: Actividad práctica guiada basada en el contenido del módulo.
   - Duración estimada: 168 min
 
 ### Capítulo 2
 
-- [Laboratorio 2: Respecto al contenido del capitulo 2](Capitulo02/README.md#laboratorio-2-respecto-al-contenido-del-capitulo-2)
+- [Laboratorio 2: Despliegue y Operación de Apache Kafka 4.0 con Docker Compose y Confluent Platform 8.0](Capitulo02/README.md#laboratorio-2-respecto-al-contenido-del-capitulo-2)
   - Descripción: Actividad práctica guiada basada en el contenido del módulo.
   - Duración estimada: 168 min
 
 ### Capítulo 3
 
-- [Laboratorio 3: Respecto al contenido del capitulo 3](Capitulo03/README.md#laboratorio-3-respecto-al-contenido-del-capitulo-3)
+- [Laboratorio 3: Administración Operacional de Kafka — Particiones, Replicación, Retención y Kafka Connect](Capitulo03/README.md#laboratorio-3-respecto-al-contenido-del-capitulo-3)
   - Descripción: Actividad práctica guiada basada en el contenido del módulo.
   - Duración estimada: 168 min
 
