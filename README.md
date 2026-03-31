@@ -1,4 +1,10 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Administración de Kafka
+
+## Plataforma de laboratorios
+
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Administración de Kafka**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Este curso tiene como propósito entregar a los participantes los conocimientos teóricos y prácticos necesarios para administrar de forma profesional plataformas de mensajería construidas sobre Apache Kafka 4.0.0 y Confluent Platform 8.0, cubriendo tanto despliegues locales como escenarios en la nube.
 
@@ -47,8 +53,19 @@ El enfoque del curso es altamente práctico. Cada módulo incluye laboratorios g
   - Descripción: Actividad práctica guiada basada en el contenido del módulo.
   - Duración estimada: 50 min
 
-## Flujo de colaboración
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+---
+## 📬 **Contacto y más información**
+
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+
+---
+
+
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
